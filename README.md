@@ -6,10 +6,15 @@ This project was developed during the Koru x Ecosystem Hackathon 2025 to tackle 
 
 ## Key Features
 ✅ Credible Search Results – Uses Google Search API and Cohere AI to filter reliable resources.
+
 ✅ Reading Level Adaptation – Simplifies complex texts for students who need it.
+
 ✅ AI Summaries (Teacher-Controlled) – Auto-generates article overviews with optional teacher permissions.
+
 ✅ Reflection Prompts – Encourages critical thinking with AI-suggested or custom questions.
+
 ✅ Focus Mode – Helps students stay engaged by minimizing distractions.
+
 ✅ Teacher Dashboard – Tracks student progress, engagement, and Focus Mode usage.
 
 This repository contains the implementation of a solution for Problem Area 3. The project is primarily developed using React.JS, with some HTML and CSS.
